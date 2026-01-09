@@ -1,30 +1,18 @@
 # Taiwanese-ASR
 ## Content structure
 ```
-├── whisper-base/
-│   ├── check_missing_audio.py                  
-│   ├── check-repeat-sentence.py  
-│   ├── delete-repaet-sentence.py    
-│   ├── inference.py
-│   ├── json-produce.py  
-│   ├── MER.py
-│   ├── preprocessor_config.json    
-│   ├── ref-json-produce.py 
-│   ├── train.py  
-│   ├── train.sh    
-│   └── transcriptions_normalize.py
-├── whisper-large-v3-turbo/
-│   ├── check_missing_audio.py                  
-│   ├── check-repeat-sentence.py  
-│   ├── delete-repaet-sentence.py    
-│   ├── inference.py
-│   ├── json-produce.py  
-│   ├── MER.py
-│   ├── preprocessor_config.json    
-│   ├── ref-json-produce.py 
-│   ├── train_TimeStretch_PitchShift.py  
-│   ├── train.sh    
-│   └── transcriptions_normalize.py
+ASR
+├── check_missing_audio.py                  
+├── check-repeat-sentence.py  
+├── delete-repaet-sentence.py    
+├── inference.py
+├── json-produce.py  
+├── MER.py
+├── preprocessor_config.json    
+├── ref-json-produce.py 
+├── train_TimeStretch_PitchShift.py  
+├── train.sh    
+├── transcriptions_normalize.py
 └── TAT-MOE/                                    
     ├── TAT-MOE-eval                              
     ├── TAT-MOE-eval-key
