@@ -22,7 +22,7 @@ ASR
 ```
 
 ## 1. Download the example code
-Please download the whole folder or `git@140.113.30.155:azure005/taiwanese-asr.git`.
+Please download the whole folder`.
 
 ## 2. Dataset download
 
